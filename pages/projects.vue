@@ -1,8 +1,10 @@
 <template>
   <section>
-    <div class="container">
-      Projects
-    </div>
+    <ul class="project-list">
+      <li class="project-list-item">
+        <ProjectCard />
+      </li>
+    </ul>
   </section>
 </template>
 
